@@ -1,0 +1,2 @@
+mu;x;x_dot;time;frames
+0.3;0.0;1.0;20;500
