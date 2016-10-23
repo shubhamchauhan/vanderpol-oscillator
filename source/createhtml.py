@@ -1,6 +1,6 @@
 import webbrowser
 
-f = open('../output/130010021_animation.html','w')
+f = open('../output/130010021.html','w')
 
 message = """<html>
 <head></head>
@@ -15,5 +15,5 @@ f.write(message)
 f.close()
 
 #Change path to reflect file location
-filename = '../output/130010021_animation.html'
-webbrowser.open_new_tab(filename)
+#filename = '../output/130010021.html'
+#webbrowser.open_new_tab(filename)
