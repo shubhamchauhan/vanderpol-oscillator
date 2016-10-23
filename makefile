@@ -7,3 +7,6 @@ build:
 clean:
 	rm -rf output
 	rm -rf source/__pycache__
+
+test:
+	cd ./source && python tests.py
